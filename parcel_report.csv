@@ -1,0 +1,5 @@
+id,sender,receiver,status
+1,parcel_sender,parcel_receiver,in_transit
+2,parcel_sender1,parcel_receiver1,in_transit
+3,parcel_sender2,parcel_receiver2,in_transit
+4,Alice,Bob,in_transit
