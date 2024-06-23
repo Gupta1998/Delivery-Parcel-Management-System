@@ -27,7 +27,7 @@ processing
    Navigate into the "Project" directory and create a virtual environment for the project. Run the following commands:
 
 ```bash
-$ cd FreshBasket
+$ cd project_folder
 $ python3 -m venv venv
 $  venv/Scripts/activate.bat
 ```
